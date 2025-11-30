@@ -101,7 +101,7 @@ export default function Main() {
                 <p className="text-neutral-900">•</p>
                 <p className="text-neutral-500">Jun 2023 – Feb 2024</p>
               </div>
-              <ul className="list-disc list-inside text-[15px] mt-1">
+              <ul className=" list-disc list-inside text-neutral-400 text-[15px] mt-1">
                 <li>Built responsive web apps using JavaScript and modern frameworks.</li>
                 <li>Integrated APIs and improved code performance.</li>
                 <li>Collaborated with teams to deliver scalable solutions.</li>
@@ -118,7 +118,7 @@ export default function Main() {
                 <p className="text-neutral-900">•</p>
                 <p className="text-neutral-500">Jun 2025 – Jul 2025</p>
               </div>
-              <ul className="list-disc list-inside text-[15px] mt-1">
+              <ul className="list-disc list-inside text-neutral-400 text-[15px] mt-1">
                 <li>Contributed to College ERP development and real-time testing.</li>
                 <li>Handled frontend–backend integration for smooth deployment.</li>
                 <li>Identified and resolved performance and stability issues.</li>
