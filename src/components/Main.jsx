@@ -90,7 +90,6 @@ export default function Main() {
           <h2 className="text-2xl mb-4 font-medium text-neutral-500">Work</h2>
 
           <div className="flex flex-col gap-6 text-neutral-500">
-
             <div>
               <div className="flex items-center gap-2 flex-wrap text-[16px]">
                 <span className="font-semibold text-white">Web Application Developer</span>
