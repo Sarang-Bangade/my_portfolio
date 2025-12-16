@@ -22,7 +22,6 @@ export default function Main() {
         </div>
 
         <div className="h-[1px] bg-neutral-800 w-full my-6"></div>
-
         {/* Projects */}
         <div className="my-8 flex flex-col">
           <h2 className="text-2xl mb-4 font-medium text-neutral-500">Projects</h2>
