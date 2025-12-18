@@ -1,4 +1,5 @@
 export default function Main() {
+  
   return (
     <div className="bg-black min-h-screen w-full flex flex-col text-[16px]">
       <div className="max-w-5xl w-full mx-auto px-10 sm:px-8 md:px-16 py-16 flex flex-col">
